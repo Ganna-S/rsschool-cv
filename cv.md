@@ -22,4 +22,14 @@ Created inspiring and influential Landing Pages and Static websites. Expertise i
 Virtual Assistant (remote)
 
 Worked with an international corporate finance boutique as their online business support. Competence includes a Virtual CEO's Personal Assistant and Research analyst.
+___
+### EDUCATION
+**University College Dublin, Dublin, Ireland 	2014**
+Doctor of Philosophy (Ph.D.): Functional Biodiversity
+___
+***Certifications***
+Certified Markup Developer (From 0 to 1 - HTML, CSS & Web Development)
+English HTML (GoIT)
+Web Designer: Explosive Start (WAYUP)
 
+***Languages:*** Russian and Ukrainian (native), English (Advanced)
