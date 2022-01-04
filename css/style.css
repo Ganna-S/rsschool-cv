@@ -37,13 +37,23 @@
     }
     
     h2 {
+        text-transform: uppercase;
         margin: 30px 0;
+    }
+    
+    h3 {
+        margin-bottom: 15px;
     }
     
     ul {
         list-style: none;
         margin: 0;
         padding: 0;
+    }
+    
+    .marker {
+        list-style: square;
+        margin-left: 70px;
     }
     
     .container {
@@ -106,14 +116,25 @@
         margin-bottom: 10px;
     }
     
-    .img {
-        min-height: 340px;
-        min-width: 340px;
-        background-position: top center;
-        background-size: cover;
-        background-repeat: no-repeat;
+    .contacts span {
+        font-weight: bold;
+    }
+    
+    .avatar img {
+        height: 230px;
+        width: 230px;
         margin: 80px 30px;
         border-radius: 50%;
+    }
+    
+    #skills {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    
+    .code-examples {
+        padding: 65px 25px 0;
     }
     
     .block {
@@ -121,14 +142,8 @@
     }
     
     .title-italic {
-        padding-top: 10px;
-    }
-    
-    .certifications {
-        display: flex;
-        flex-direction: column;
-        list-style: square;
-        margin-left: 50px;
+        margin-top: 10px;
+        font-style: italic;
     }
     
     footer {
@@ -142,10 +157,12 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
+        flex-wrap: wrap;
     }
     
     .footer-inner a {
         margin-left: 30px;
+        padding-bottom: 20px;
     }
     
     .footer-img img {
@@ -155,9 +172,10 @@
     }
     
     @media (max-width: 530px) {
-        .img {
-            min-height: 300px;
-            min-width: 300px;
-            margin: 30px 0;
+        .header-menu a {
+            padding: 15px 0;
+        }
+        .code-examples {
+            display: none;
         }
     }
