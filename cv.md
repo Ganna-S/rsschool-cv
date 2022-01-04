@@ -1,9 +1,9 @@
 # Ganna S. Shutenko
+## JUNIOR FRONT-END DEVELOPER
 #### Chernihiv - Ukraine
 #### @Ganna_Shu • gannashutenko@gmail.com 
 #### Discord: Ganna Shutenko (@Ganna-S)
 #### https://www.linkedin.com/in/gannashutenko/ 	
-## JUNIOR FRONT-END DEVELOPER
 
 Thrilled to work on interesting projects with good people and make this world more awesome from November 2019. My expertise is HTML5, CSS3, and jQuery, LESS/SCSS for much faster CSS processing. Basic knowledge in JavaScript. I am highly motivated and enthusiastic always willing to learn, work well with others as well as efficiently on my own.
 ___
