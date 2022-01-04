@@ -33,4 +33,3 @@ English HTML (GoIT)
 Web Designer: Explosive Start (WAYUP)
 
 ***Languages:*** Russian and Ukrainian (native), English (Advanced)
-
