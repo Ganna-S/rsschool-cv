@@ -109,6 +109,7 @@
     .img {
         min-height: 340px;
         min-width: 340px;
+        background-image: url(/assets/img/avatar_me.jpg);
         background-position: top center;
         background-size: cover;
         background-repeat: no-repeat;
