@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/Ganna-S/rsschool-cv/
