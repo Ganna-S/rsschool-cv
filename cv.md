@@ -28,9 +28,9 @@ ___
 Doctor of Philosophy (Ph.D.): Functional Biodiversity
 ___
 ***Certifications***
-JS/FE PRE-SCHOOL 2022 JAVASCRIPT (The Rolling Scopes School)
-Certified Markup Developer (From 0 to 1 - HTML, CSS & Web Development)
-English HTML (GoIT)
+JS/FE PRE-SCHOOL 2022 JAVASCRIPT (The Rolling Scopes School),
+Certified Markup Developer (From 0 to 1 - HTML, CSS & Web Development),
+English HTML (GoIT),
 Web Designer: Explosive Start (WAYUP)
 
 ***Languages:*** Russian and Ukrainian (native), English (Advanced)
